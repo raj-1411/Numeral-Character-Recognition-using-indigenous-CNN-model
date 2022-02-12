@@ -117,3 +117,5 @@ def my_model():
     plot.train_val_graph(epoch_n, train_loss_list, val_loss_list)
 
 
+
+    
