@@ -28,7 +28,7 @@ def my_model():
     # Hyperparamter tuning 
 
     epoch_n = 20
-    lr_rate = 0.0001
+    lr_rate = 0.00001
     batch_size_tr = 100
     batch_size_val = 100
 
