@@ -1,9 +1,9 @@
 # Numeral-Character-Recognition-using-indigenous-CNN-model
 
 ## Project Description
-This is a python-based project classifying the ten different digits of Numeral System based on deep analysis of image samples contained in the popular MNIST dataset 
+This is a python-based project classifying the ten different digits of Numeral System based on deep analysis of image samples contained in the popular `MNIST` dataset 
 
-The model implemented for the above task is a stacked convolutional neural network that encompasses many aspects of the  popular CNN structures used predominantly in real world scenario 
+The model implemented for the above task is a stacked convolutional neural network that encompasses many aspects of the  popular `CNN` structures used predominantly in real world scenario 
 
 The model has used convolution layers, inception layer, max-pool layers and fully-connected neural nets as well to gain higher accuracy over simple nets. 
 Ordered stack of different layers keeping in mind the unique function of each layer has helped the model achieve a best validaion accuracy of `99.35%`
