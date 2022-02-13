@@ -24,10 +24,9 @@ Five layers have been applied on the dataset, namely:
 -	`ConvLayer-3`
 -	`Max-pool layers`
 -	`Fully Connected Neural Nets`
- 
--Pictorial Representation of the model: 
 
-![unknown](https://user-images.githubusercontent.com/89198752/153758454-f958bfda-2d5f-4ca9-ad5d-e3c3989a0fba.png)
+-     Pictorial Representation of the model: 
+     ![unknown](https://user-images.githubusercontent.com/89198752/153758454-f958bfda-2d5f-4ca9-ad5d-e3c3989a0fba.png)
 
 ## Classes of Division
 In this project, we have used the predefined classes ranging from `0-9`
